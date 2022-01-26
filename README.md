@@ -31,3 +31,7 @@ Then visit the [home page](http://localhost:3000/).
 - [pnpm](https://pnpm.io/)
 - [single-spa](https://single-spa.js.org/)
 - [bit](https://bit.dev/)
+
+# Final result
+
+[Final result](./MF-shop.gif)
