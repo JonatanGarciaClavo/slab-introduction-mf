@@ -3,7 +3,7 @@
 This file contains all the different steps we will do during the workshop. So you have kind of log of what we did and in which order.
 
 
-1. MF demo: we will create in `home` Header and Footer components and we will see how to share those with `pdb`
+1. MF demo: we will create in `home` Header and Footer components and we will see how to share those with `pdp`
 
 2. Why MF? we will see different MF approaches showing the possible MF [architecture](./architecture.dio) options.
 
